@@ -32,11 +32,8 @@ build/classes/java/test/live/ismel/IsmelApplicationTests.class
 build/resources/main/application.properties
 build/tmp/compileJava/previous-compilation-data.bin
 build/tmp/compileTestJava/previous-compilation-data.bin
-settings.gradle
 gradle/wrapper/gradle-wrapper.jar
 gradle/wrapper/gradle-wrapper.properties
-gradlew
-gradlew.bat
 .idea/compiler.xml
 .idea/gradle.xml
 .idea/jarRepositories.xml
