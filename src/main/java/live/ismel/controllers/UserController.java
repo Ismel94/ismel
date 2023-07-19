@@ -11,7 +11,6 @@ import java.util.List;
 
 @RestController
 @RequestMapping("/ismel/messages")
-@CrossOrigin("http://192.168.43.86:4200")
 public class UserController {
 
   @Autowired
