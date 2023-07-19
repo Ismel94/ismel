@@ -37,7 +37,6 @@ gradle/wrapper/gradle-wrapper.jar
 gradle/wrapper/gradle-wrapper.properties
 gradlew
 gradlew.bat
-HELP.md
 .idea/compiler.xml
 .idea/gradle.xml
 .idea/jarRepositories.xml
